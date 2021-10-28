@@ -774,6 +774,6 @@ if ($sendToTelegram) {
 ##### 1 - We pour traffic
 ##### 2 - Admiring the profit
 
-## Available E-Mail checkers - CONTACT TELEGRAM - @lionscorp123
+## Available E-Mail checkers - CONTACT TELEGRAM - https://t.me/lionscorp123 
 ## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
-## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/HiroSCOTCH#
+## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/HiroSCOTCH
