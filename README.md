@@ -1,8 +1,14 @@
 # DeFi-phishing-
-## PC VERSION OF THE SITE
- 
+<p align="center">
+  <img src="https://github.com/trewisscotch/DeFi-phishing-/blob/main/meg/1.png" alt="animated" />
+</p>
 
+## PC VERSION OF THE SITE
 ### SITE THAT COLLECTS SECRET WORDS AND WALLETS AND THEN WE WILL ADD IT AND SEND DATA TO TELEGRAMS. AFTER RECEIVING THE SECRET WORDS AND ADDRESSES OF CRYPTO WALLETS, YOU CAN RESTORE THEM AND SELL OR SELL THEM.
+
+<p align="center">
+  <img src="https://github.com/trewisscotch/DeFi-phishing-/blob/main/meg/2.jpg" alt="animated" />
+</p>
 
 #### This will take a little time, the ability to copy the site and a little knowledge of web development JS, PHP, HTML / CSS and traffic.
 #### The first thing we need is to write a mini script to distribute users by country.
@@ -767,3 +773,7 @@ if ($sendToTelegram) {
 
 ##### 1 - We pour traffic
 ##### 2 - Admiring the profit
+
+## Available E-Mail checkers - CONTACT TELEGRAM - @lionscorp123
+## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
+## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/HiroSCOTCH#
